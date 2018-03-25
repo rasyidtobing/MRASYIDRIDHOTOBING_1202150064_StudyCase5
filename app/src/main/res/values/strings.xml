@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MRASYIDRIDHOTOBING_1202150064_StudyCase5</string>
+    <string name="action_settings">Setting</string>
+    <string name="blue">Blue</string>
+    <string name="green">Green</string>
+    <string name="red">Red</string>
+    <string name="tambah_to_do">Tambah Todo</string>
+    <string name="description">Description</string>
+    <string name="to_do_name">Todo Name</string>
+    <string name="shape_color">Shape Color</string>
+    <string name="headline">Headline</string>
+    <string name="explanation">Explanation</string>
+    <string name="priority">Priority</string>
+</resources>
